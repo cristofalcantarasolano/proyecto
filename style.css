@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*menú 1 */
+#nab1{
+    width: 250px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 0, 0);
+}
+
+.menu{
+    list-style: none;
+}
+
+.menu a{
+text-decoration: none;
+background-color: black;
+color: rgb(255, 0, 0);
+padding: 15px;
+display: block;
+}
+
+.menu a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+/*menu horizontal1*/
+#nab2{
+    background-color: #17202A;
+    height: 50px;
+    width: 1024px;
+    border: 1px solid black;
+    padding: 20px;
+margin: 10px; 
+}
+
+.menu2 {
+list-style: none;
+}
+
+.menu2 li{
+display: inline-block;
+float: right;
+display: flex;
+}
+
+.menu2 a{
+    text-decoration: none;
+    background-color: black;
+    color: aliceblue;
+    padding: 15px 40px;
+    border: 1px solid white;
+}
+
+.menu2 a:hover{
+    background-color: aliceblue;
+    color:black;
+}
+
+*{margin: 0px;
+    padding: 5px;}
+    
+    .titulop {
+    
+    background-color: #f4cb8d;
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+    
+    nav{width: 300px;
+    border:0px solid  rgb(3, 3, 3);
+    align-items: center;
+    }
+    
+    .menu{list-style: none;
+    padding: 0;
+    margin: 0;}
+    
+    .menun li{margin-bottom: 1px;}
+    
+    .menu a{color:black;
+        background-color: #F06292;
+    text-decoration: none;
+    padding: 26px;
+    display: block;
+    
+    
+    }
+
+    .btn {
+
+        display: inline-block;
+        background-color: #823549;
+        padding: 15px;
+        text-decoration: none;
+    }
+
+
+
+.btn1 {
+
+    display: inline-block;
+    background-color: #b5e9f6;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.btn2 {
+
+    display: inline-block;
+    background-color: #f9b2d0;
+    padding: 15px;
+    text-decoration: none;
+}
+    
+.btn3 {
+
+    display: inline-block;
+    background-color: #000000;
+    padding: 15px;
+    text-decoration: none;
+}
+    
+.btn4 {
+
+    display: inline-block;
+    background-color: 	#9f907a;
+    padding: 15px;
+    text-decoration: none;
+}
+    
+    
+    
+    
